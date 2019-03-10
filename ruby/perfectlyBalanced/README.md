@@ -26,6 +26,3 @@ balanced_bonus("x") => true
 balanced_bonus("") => true
 
 Note that balanced_bonus behaves differently than balanced for a few inputs, e.g. "x".
-
-In doing this I hope to solidify my understanding of both git and ruby.
-
