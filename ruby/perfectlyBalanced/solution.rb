@@ -14,9 +14,8 @@ def balanced(input)
   count = generate_hash(input)
   if count["x"] != count["y"]
     return false
-  else
-    return true
   end
+  true
 end
 
 def balanced_bonus(input)
